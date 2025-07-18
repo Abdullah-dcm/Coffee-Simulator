@@ -59,7 +59,7 @@ print("\nToppings:", toppings, sep=" ", end=" 🍬\n")
 print("\nOrder Type:", order_type, end=" 🛍️\n")
 
 print("--------------------------------------------")
-
+  
 print("Thank you for ordering from Code Café! 🌈💻")
 print("Your coffee will be ready shortly. Enjoy! 🎉\n")
 
