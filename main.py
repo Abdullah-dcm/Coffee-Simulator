@@ -5,7 +5,7 @@
 
 # Print a welcome message
 
-print("Welcome to Code Café \n")
+print("Welcome to Code Cafe! \n")
 print("Lets get started with your order!\n")
 
 # Ask for the customer's name
